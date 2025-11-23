@@ -1,0 +1,12 @@
+google-adk>=1.19.0
+google-cloud-aiplatform>=1.31.0
+requests
+beautifulsoup4
+python-dotenv
+PyYAML
+fastapi
+uvicorn
+pytest
+gunicorn
+aiohttp
+sqlitedict
