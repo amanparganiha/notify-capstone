@@ -1,0 +1,12 @@
+{
+  "project_name": "notify_demo",
+  "session_id": "demo1",
+  "sources": ["remotive"],
+  "keywords": ["machine learning", "data science", "intern", "ml", "research"],
+  "top_k": 10,
+  "output_dir": "outputs",
+  "remotive_category": "software-dev",
+  "remotive_search": "intern",
+  "max_jobs_per_source": 100,
+  "intern_only": true
+}
