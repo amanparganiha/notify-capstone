@@ -254,6 +254,7 @@ notify-capstone/
 │    └── demo_config.json
 │── outputs/
 │── run_notify.py
+│── test_remotive.py
 │── README.md
 │── requirements.txt
 ```
